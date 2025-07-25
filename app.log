@@ -1,0 +1,5 @@
+WARNING:easyocr.easyocr:Using CPU. Note: This module is much faster with a GPU.
+INFO:root:Extracted Text: N 1 2 8 A8T 8 Igp81  1 8 isi3| 3 83 118 E 1 RiR 8 1 8 1 0 8 
+INFO:root:Nutrition Data: {'calories': 0, 'total_fat': 0.0, 'saturated_fat': 0.0, 'trans_fat': 0.0, 'cholesterol': 0, 'sodium': 0, 'total_carbohydrates': 0, 'dietary_fiber': 0, 'total_sugars': 0, 'added_sugars': 0, 'protein': 0}
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\acer\\OneDrive\\Desktop\\food label nutrition extractor\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\acer\OneDrive\Desktop\food label nutrition extractor\env\Lib\site-packages\comtypes\gen'
